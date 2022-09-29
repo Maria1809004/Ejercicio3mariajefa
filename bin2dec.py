@@ -1,4 +1,4 @@
-
+#cambiotomas
 def binario_a_decimal(binario):
     posicion = 0
     decimal = 0
